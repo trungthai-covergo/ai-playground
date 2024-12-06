@@ -1,0 +1,18 @@
+{
+  "name": "@ai-playground/core",
+  "version": "1.0.0",
+  "description": "AI Playground Core Libs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "jest": "^27.4.7",
+    "@types/jest": "^27.4.0"
+  }
+}
