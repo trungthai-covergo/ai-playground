@@ -1,0 +1,8 @@
+{
+  "node_version": "20",
+  "graphs": {
+    "retrieval_graph": "./src/retrieval_graph/graph.ts:graph",
+    "indexer": "./src/index_graph/graph.ts:graph"
+  },
+  "env": ".env"
+}
